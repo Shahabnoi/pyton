@@ -13,5 +13,5 @@ if workHours>WorkingHoursAct:                              #agar mizane karkard 
 else:                                                      #darsorate karkard normal faghat mohase hoghogh
     print(int(Salary*workHours))  
     
-    ###          
+       
 
