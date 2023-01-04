@@ -25,10 +25,10 @@ class Employee:
      
 p1 = Employee("John", "Cage" , 200)
 p2 = Employee("jak", "polman", 190)
-print("hoghogh daryafti " + p1.name,p1.family )    
+p1.EmployeePay()  
 p1.pay()  
 print("mibashad")
-print("hoghogh daryafti " + p2.name,p2.family )    
+p2.EmployeePay()    
 p2.pay()  
 print("mibashad")
- 
+
